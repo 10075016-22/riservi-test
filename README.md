@@ -1,4 +1,14 @@
-# Vue 3 + Vite
+# Test Riservi
+
+## Material de prueba
+
+[Archivo doc](./doc/test/Examen%20Front-end%20-%202025.doc)
+
+[Archivo XLS - Test SQL](./doc/test/problema2.xls)
+
+[Prueba de PHP](./doc/test/problema1.php)
+
+
 
 ## Guía de instalación y uso
 
@@ -196,6 +206,8 @@ ORDER BY p.nombre ASC, c.nombre ASC
 
 Teniendo en cuenta que si el país llega en `NULL` entonces mostraremos `NO ASOCIADO`
 
+|    Ciudad    |     Pais    |
+|--------------|-------------|
 | Mexico DF    | NO ASOCIADO |
 | Rosario      | Argentina   |
 | Santiago     | Chile       |
